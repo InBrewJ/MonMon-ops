@@ -6,6 +6,6 @@ At present:
 
 At future:
 
-- Run the blob of services
+- Run the blob of services locally
 - deploy stuff
 - run tests (local Jenkins server/Travis config?)
